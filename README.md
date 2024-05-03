@@ -1,7 +1,7 @@
 # Word Counter web application 
+  **Live :** https://wordcounterwithashu.netlify.app/ <br/>
 **Home Page :**<br/>
   <img width="960" alt="img5" src="https://github.com/httpsashu404/WordCounter/assets/159816902/5fec680e-666e-44e4-a6a8-0bb7f371eaac"> <br/>
-  **Live :** https://wordcounterwithashu.netlify.app/ <br/>
 
 
 # Getting Started with Create React App
